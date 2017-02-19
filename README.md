@@ -10,5 +10,6 @@ User can draw with finger(s) or use the following keyboard shortcuts:</br>
 <b>Esc</b> - Exit app</br>
 <b>?</b> - Help</br>
 
+Based on MTScratchpadWMTouch Win7 SDK samples
 
 Tested on windows 8/8.1/10.
